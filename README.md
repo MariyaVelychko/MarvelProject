@@ -1,5 +1,4 @@
-# MarvelProject
-The final project for Knowledge &amp; Data Course of Group 23
+# MarvelProject - the final project for Knowledge &amp; Data Course of Group 23
 
 INSTRUCTIONS FOR SETTING UP THE APPLICATION:
 
